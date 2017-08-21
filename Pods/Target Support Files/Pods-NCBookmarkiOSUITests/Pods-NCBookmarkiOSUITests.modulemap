@@ -1,0 +1,6 @@
+framework module Pods_NCBookmarkiOSUITests {
+  umbrella header "Pods-NCBookmarkiOSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
